@@ -1,0 +1,28 @@
+C:\Users\ELMZ\Desktop\C# ippfm\Negativo_Positivo\bin\Debug\net6.0\Negativo_Positivo.exe
+C:\Users\ELMZ\Desktop\C# ippfm\Negativo_Positivo\bin\Debug\net6.0\Negativo_Positivo.deps.json
+C:\Users\ELMZ\Desktop\C# ippfm\Negativo_Positivo\bin\Debug\net6.0\Negativo_Positivo.runtimeconfig.json
+C:\Users\ELMZ\Desktop\C# ippfm\Negativo_Positivo\bin\Debug\net6.0\Negativo_Positivo.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Negativo_Positivo\bin\Debug\net6.0\Negativo_Positivo.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Negativo_Positivo\obj\Debug\net6.0\Negativo_Positivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELMZ\Desktop\C# ippfm\Negativo_Positivo\obj\Debug\net6.0\Negativo_Positivo.AssemblyInfoInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Negativo_Positivo\obj\Debug\net6.0\Negativo_Positivo.AssemblyInfo.cs
+C:\Users\ELMZ\Desktop\C# ippfm\Negativo_Positivo\obj\Debug\net6.0\Negativo_Positivo.csproj.CoreCompileInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Negativo_Positivo\obj\Debug\net6.0\Negativo_Positivo.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Negativo_Positivo\obj\Debug\net6.0\refint\Negativo_Positivo.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Negativo_Positivo\obj\Debug\net6.0\Negativo_Positivo.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Negativo_Positivo\obj\Debug\net6.0\Negativo_Positivo.genruntimeconfig.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Negativo_Positivo\obj\Debug\net6.0\ref\Negativo_Positivo.dll
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Negativo_Positivo\bin\Debug\net6.0\Negativo_Positivo.exe
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Negativo_Positivo\bin\Debug\net6.0\Negativo_Positivo.deps.json
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Negativo_Positivo\bin\Debug\net6.0\Negativo_Positivo.runtimeconfig.json
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Negativo_Positivo\bin\Debug\net6.0\Negativo_Positivo.dll
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Negativo_Positivo\bin\Debug\net6.0\Negativo_Positivo.pdb
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Negativo_Positivo\obj\Debug\net6.0\Negativo_Positivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Negativo_Positivo\obj\Debug\net6.0\Negativo_Positivo.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Negativo_Positivo\obj\Debug\net6.0\Negativo_Positivo.AssemblyInfo.cs
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Negativo_Positivo\obj\Debug\net6.0\Negativo_Positivo.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Negativo_Positivo\obj\Debug\net6.0\Negativo_Positivo.dll
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Negativo_Positivo\obj\Debug\net6.0\refint\Negativo_Positivo.dll
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Negativo_Positivo\obj\Debug\net6.0\Negativo_Positivo.pdb
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Negativo_Positivo\obj\Debug\net6.0\Negativo_Positivo.genruntimeconfig.cache
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Negativo_Positivo\obj\Debug\net6.0\ref\Negativo_Positivo.dll
